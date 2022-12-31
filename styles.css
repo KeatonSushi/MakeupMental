@@ -1,0 +1,257 @@
+h1, h2{
+    font-family: 'Bebas Neue', cursive !important;
+}
+
+p{
+    font-family: 'Roboto', sans-serif !important;
+}
+
+
+/* navigation bar */
+
+.nav-link:link { text-decoration: none; }
+
+
+.nav-link:visited { text-decoration: none; }
+
+
+.nav-link:hover { text-decoration: none; }
+
+
+.nav-link:active { text-decoration: none; }
+
+.navbar-logo{
+    width: 100px !important;
+    height: auto;
+    display: inline-block;
+  left: 45%;
+  position: relative;
+}
+
+.navigation{
+    padding-left: 39%;
+}
+
+.logo a{
+    display: block;
+}
+  
+
+/* home */
+
+.homepage-image{
+    width: 200px;
+    height: 200px;
+}
+
+body{
+    background-color: #395144 !important;
+    margin: 0;
+}
+
+.h1-section{
+    margin-bottom: 210px;
+}
+
+.homepage-h1{
+    display: inline-block;
+    position: relative;
+}
+
+.homepage-h1-2{
+    display: inline-block;
+    position: relative;
+}
+
+.homepage-h2{
+    position: relative;
+    top: -70px;
+    left: 40px;
+
+}
+
+.text-h1{
+    color: #AA8B56;
+    padding-left: 0%;
+    font-size: 200px;
+}
+
+.text-h2{
+    font-family: 'Bebas Neue', cursive !important;
+    color: #F0EBCE;
+    padding-left: 0%;
+    font-size: 200px;
+}
+
+
+/* footer */
+
+footer{
+    text-align: center;
+    background-color: white;
+    padding-top: 40px;
+    padding-bottom: 20px;
+}
+
+.footer-icon{
+    text-align: center;
+    color: #AA8B56;
+}
+
+
+.footer-icons{
+    text-align: center;
+    display: inline-block;
+    margin-left: 40px;
+}
+
+
+
+
+
+                                           /* Work Page */
+
+#work-section{
+    height: 100vh;
+}
+
+.work-header{
+    color: #AA8B56;
+    font-size: 400px;
+}
+
+#header-div{
+    position: absolute;
+    bottom: -15px;
+    left: 630px;
+}
+
+
+/* Work Carousel */
+
+#photo-slide{
+    position: relative;
+    background-color: #F0EBCE;
+    width: 600px;
+    height: 320px;
+    margin-bottom: 400px;
+}
+
+.carousel-inner{
+    top: 11px;
+}
+
+.c-div{
+    margin: 50px 0 105px 0;
+}
+
+.c-image0{
+    width: 300px;
+    border-radius: 100%;
+    margin-left: 140px;
+    display: inline-block; 
+}
+
+.c-image1{
+    width: 300px;
+    border-radius: 100%;
+    margin-left: 140px;
+    display: inline-block; 
+}
+
+.c-image2{
+    width: 300px;
+    border-radius: 100%;
+    margin-left: 140px;
+    display: inline-block;
+    object-fit: cover;
+}
+
+.next-button{
+    display: inline-block;
+    margin-right: 785px;
+}
+
+/* Work Carousel */
+
+/* Youtube Video Section */
+
+.youtube-section{
+    background-color: #F0EBCE;
+    height: 58vh;
+}
+
+.video{
+    margin: 20px 0 15px 393px;
+}
+
+.video1{
+    position: absolute;
+    bottom: -178px;
+    left: 102px;
+}
+
+.youtube-sec-h2{
+    font-size: 60px;
+    font-weight: 900;
+    position: absolute;
+    left: 40px;
+    bottom: -355px;
+}
+
+.youtube-link{
+    color: #AA8B56;
+}
+
+.youtube-link:hover{
+    color: #c3ad88;
+}
+
+/* Creator Section */
+
+#creator-section{
+    background-color: #AA8B56;
+    height: 100vh;
+}
+
+.creator-div{
+    text-align: center;
+    padding-top: 150px;
+}
+
+
+
+
+
+
+
+/* Mission Statement Page */
+
+
+.vision{
+    text-align: center;
+    padding-top: 40px;
+}
+
+.mission{
+    text-align: center;
+    padding-top: 110px;
+}
+
+#ms-section{
+    height: 100vh;
+}
+
+
+
+
+/* About Page */
+
+.about-div{
+    text-align: center;
+    padding-top: 100px;
+}
+
+#about-sec{
+    height: 100vh;
+}
